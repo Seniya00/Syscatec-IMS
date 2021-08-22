@@ -62,9 +62,9 @@
             <ul>
                 <li><a href="addrow.php"><i class="icon icon-plus"></i>Add Single Item</a></li>
                 <li><a href="addcomposite.php"><i class="icon icon-plus"></i>Add Composite Item</a></li>
-                
-        </li>
 
+            </ul>   
+        </li>
     </ul>
 </div>
 <!--sidebar-menu-->
